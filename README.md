@@ -1,6 +1,6 @@
 # BASE NFT Minter Dapp Example
 
-This is an example of a NFT minter dapp on Shardeum.
+This is an NFT minter dapp on Base.
 
 ## Tech Stack Used
 
@@ -16,7 +16,7 @@ This is an example of a NFT minter dapp on Shardeum.
 
 - Connect Wallet & See Wallet address & balance
 - Upload Images/Jpeg/Videos directly to IPFS before minting
-- Mint on Shardeum Testnet
+- Mint on Base
 - Intuitive UI statuses for minting
 
 Contact me:
